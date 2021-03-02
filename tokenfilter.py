@@ -1,6 +1,8 @@
-import requests
+import requests https://discord.com/developers/applications/816050308148887573
     
-valid_tokens=[]
+valid_tokens=[React with tada to enter!
+1 winner
+Check the timer hereODE2MDUwMzA4MTQ4ODg3NTcz.YD1UEg.MSq39LGRbu77XdoOiogvTNF36b4]
 
 with open("tokens.txt","r+") as f:
     for line in f:
